@@ -1,1 +1,3 @@
 # Data-Science-Final-Project
+
+This repository is used as part of my Data Science class' final project as a space to document my ideas, research, and progress. As part of my final project, I hope to use data science research methods to explore the relationship between economic development and environmental sustainability across different countries and to analyze whether there is a positive relationship between the two. Additionally, I will also be analyzing renewable energy usage in each countries over time, how they have been utilized, and how countries grow their business and reduce their environmental impact.
